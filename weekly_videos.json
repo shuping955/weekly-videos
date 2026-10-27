@@ -1,5 +1,5 @@
 {
-  "updated": null,
+  "updated": "2026-10-27",
   "themes": [
     {
       "key": "food",
@@ -32,5 +32,594 @@
       "icon": "🎭"
     }
   ],
-  "languages": {}
+  "languages": {
+    "en": {
+      "themes": {
+        "food": [
+          {
+            "id": "r_cotblPg8s",
+            "title": "British English Listening Practice with a Native Speaker 🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿 | Breakfast 🥣☕",
+            "channel": "Common Peoples 【スコットランド人母ちゃんと娘の日記】",
+            "channel_id": "UCfaJmRQOPyL0Y4axE4yfQTQ",
+            "published": "2026-02-04",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "zaEvM3BPfFU",
+            "title": "5 British foods you need to know",
+            "channel": "DW Food",
+            "channel_id": "UC93iVjVDI3-XvHmtpNslMrw",
+            "published": "2025-05-17",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "oh6JhbmEi74",
+            "title": "British Food for English Learners: Yorkshire Puddings",
+            "channel": "Kevin Paul",
+            "channel_id": "UC7nHgLipJ1QyFZ68FhrM4vA",
+            "published": "2026-01-08",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "clothing": [
+          {
+            "id": "2mnL9jPVzsk",
+            "title": "Talking about clothes shopping: Easy English Conversations Episode 19",
+            "channel": "BBC Learning English",
+            "channel_id": "UCHaHD477h-FeBbVh9Sh7syA",
+            "published": "2026-03-10",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "IrwFfhTUrkA",
+            "title": "Listening for Details Practice: Clothes Shopping | American English for Adult Beginners",
+            "channel": "English Explained Vids",
+            "channel_id": "UCKFmkGOkL_JTNN15cXj143A",
+            "published": "2026-09-08",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "fP6q5McBYbE",
+            "title": "Everyday English  | Learn How to Talk About Clothes and Fashion",
+            "channel": "English Smart Practice",
+            "channel_id": "UCHVEY99AjMgb0FZ8g5IWAdA",
+            "published": "2025-11-11",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "housing": [
+          {
+            "id": "bGxdYW_6rjQ",
+            "title": "What are the pros and cons of living in a city?🏙️: Real Easy English",
+            "channel": "BBC Learning English",
+            "channel_id": "UCHaHD477h-FeBbVh9Sh7syA",
+            "published": "2026-08-02",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "Te-UyphkKRk",
+            "title": "Describing your home: Easy English Conversations Episode 20",
+            "channel": "BBC Learning English",
+            "channel_id": "UCHaHD477h-FeBbVh9Sh7syA",
+            "published": "2026-03-17",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "q4JyFF46528",
+            "title": "Do you like cleaning? 🚽🧹🧽 | Improve your listening skills with Real Easy English",
+            "channel": "BBC Learning English",
+            "channel_id": "UCHaHD477h-FeBbVh9Sh7syA",
+            "published": "2026-08-31",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "transport": [
+          {
+            "id": "Fxi4uYmCrPo",
+            "title": "Talking about public transport 🚌🚈🚋 Real Easy English",
+            "channel": "BBC Learning English",
+            "channel_id": "UCHaHD477h-FeBbVh9Sh7syA",
+            "published": "2026-04-05",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "hCx5Ix7QUOA",
+            "title": "IELTS English Podcast - Speaking Topic: Public Transportation",
+            "channel": "IELTS Plus",
+            "channel_id": "UCRKYjW6kCKpEb9vPvWvoW3w",
+            "published": "2025-02-24",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "e8xjWrBYRTI",
+            "title": "How to Survive Public Transport In The UK Using These English Phrases",
+            "channel": "Speak English Today",
+            "channel_id": "UCQLmKSgppU3hdVse8DgUKpg",
+            "published": "2025-07-20",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "education": [
+          {
+            "id": "Xbv4IIqwW-4",
+            "title": "Which country has the best schools? ⏲️ 6 Minute English",
+            "channel": "BBC Learning English",
+            "channel_id": "UCHaHD477h-FeBbVh9Sh7syA",
+            "published": "2025-01-16",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "52t241OQ7Ec",
+            "title": "Learn English Through My Trip to London 🇬🇧 | Comprehensible Input",
+            "channel": "English by Jay - Sprout",
+            "channel_id": "UCXtj403nEjWU073xESSMi9w",
+            "published": "2025-06-15",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "reKgQh0E9kg",
+            "title": "My Daily Routine | Easy English Listening Practice (A2 Level)",
+            "channel": "English Phrases Hub",
+            "channel_id": "UCRFYaYjC5tBgWTpYjmMFfZQ",
+            "published": "2025-08-07",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "leisure": [
+          {
+            "id": "N2StxicQois",
+            "title": "Talking about holidays 🌊☀️⛱️ Real Easy English",
+            "channel": "BBC Learning English",
+            "channel_id": "UCHaHD477h-FeBbVh9Sh7syA",
+            "published": "2025-07-13",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "cyM37w3Vsao",
+            "title": "Holidays & Vacations in 2026 | Everyday English Listening Practice (Real Conversations, A2–B2)",
+            "channel": "Learn English Daily Podcast: Real Conversations",
+            "channel_id": "UC6PJxmgzbmTfJkbPJpRwUzQ",
+            "published": "2026-01-14",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "mGmI9kGA_fA",
+            "title": "English Listening Practice | Shopping at a market and cafe in Melbourne",
+            "channel": "Everyday Australian English with Lauren",
+            "channel_id": "UCdHLQk4UPWXIs78akuZCM-A",
+            "published": "2026-01-11",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ]
+      }
+    },
+    "de": {
+      "themes": {
+        "food": [
+          {
+            "id": "VjspGyFa_CA",
+            "title": "How to order Food in German | Learn German with Podcast | episode 7 | Easy German",
+            "channel": "Learn German Podcast ",
+            "channel_id": "UCbo4aOrpIPNZiqOUNs0OLrg",
+            "published": "2025-08-29",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "Z462Ol4euRs",
+            "title": "Episode 3 – Essen und Trinken | Deutsch lernen mit Hör Deutsch! | Der Podcast für Anfänger | A1–B1",
+            "channel": "Hör Deutsch!",
+            "channel_id": "UC3UoS_JgYFmIdxVSTMJYehQ",
+            "published": "2025-04-27",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "3hPekH-1-6o",
+            "title": "🔥🇩🇪 Deutsch A1 Anfänger | Restaurant Vokabeln & Sätze kompakt",
+            "channel": "German Chats",
+            "channel_id": "UCmH0n9TQgTD6eXMLrEZ9SXA",
+            "published": "2026-01-15",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "clothing": [
+          {
+            "id": "6ilOcxPuvtc",
+            "title": "A2–B1 German Dialogues– Shopping for Clothes – Kleidung einkaufen",
+            "channel": "Deutsch Basics",
+            "channel_id": "UCr8moZGzklB8qdx6RUKpl8A",
+            "published": "2026-05-31",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "EOwUejfKE7Y",
+            "title": "German Shadowing Practice #3 – Buying Clothes (Kleidung kaufen)",
+            "channel": "Deutsch Basics",
+            "channel_id": "UCr8moZGzklB8qdx6RUKpl8A",
+            "published": "2025-11-14",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "kkMAqLN77sI",
+            "title": "🛍️ Deutsch A2: Einkaufen wie ein Profi! Kleidung & Technik leicht erklärt",
+            "channel": "Deutsch Doppel",
+            "channel_id": "UC_cDeECJ9uf--NksrNE53Ng",
+            "published": "2025-08-27",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "housing": [
+          {
+            "id": "V2NG-UCO-dQ",
+            "title": "Wie findet man eine Wohnung in Deutschland? | Einfach & langsam A2",
+            "channel": "Deutsch Doppel",
+            "channel_id": "UC_cDeECJ9uf--NksrNE53Ng",
+            "published": "2026-09-18",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "xlaTZWl-wvE",
+            "title": "Deutsch A2-B1: Wohnung finden leicht gemacht!",
+            "channel": "Deutsch Doppel",
+            "channel_id": "UC_cDeECJ9uf--NksrNE53Ng",
+            "published": "2025-10-01",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "2vQ1-Tn_ovg",
+            "title": "Wie findet man eine Wohnung in Deutschland? 🏠 | Deutsch lernen B1/B2 | Podcast mit Untertiteln",
+            "channel": "SchnellDeutsch",
+            "channel_id": "UCqR2tMjGvs5ig3YtYSYnf5A",
+            "published": "2025-04-06",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "transport": [
+          {
+            "id": "lycS7h_zV28",
+            "title": "🇩🇪 Verkehrsmittel in Deutschland | Deutsch lernen A2–B1",
+            "channel": " Esi Deutsch ",
+            "channel_id": "UCfBFgb5SdR1QSTgWnbRQv3Q",
+            "published": "2026-08-21",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "VE-TLH6o274",
+            "title": "How to Talk About Transportation in Germany | Learn German with Podcast | Episode 24 | Easy German",
+            "channel": "Learn German Podcast ",
+            "channel_id": "UCbo4aOrpIPNZiqOUNs0OLrg",
+            "published": "2025-11-13",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "NhK-n5Bbh9c",
+            "title": "Episode 10 – Verkehr und Mobilität | Deutsch lernen mit Hör Deutsch! | A1–B1",
+            "channel": "Hör Deutsch!",
+            "channel_id": "UC3UoS_JgYFmIdxVSTMJYehQ",
+            "published": "2025-05-16",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "education": [
+          {
+            "id": "Yms_jdVxlvA",
+            "title": "Deutsch lernen: Wortschatz rund um die Schule",
+            "channel": "Super Deutsch",
+            "channel_id": "UC7p1W-js5jY5ZOym556S4_Q",
+            "published": "2026-09-27",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "OttSEVvzdR8",
+            "title": "Mia hat ihre TAGE in der Schule!",
+            "channel": "Deutsch verstehen",
+            "channel_id": "UCJ-9bH9B1KZuXO988Vd56AA",
+            "published": "2026-10-26",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "N0s7J-DKmlM",
+            "title": "67 macht Paul verrückt als Lehrer",
+            "channel": "Deutsch verstehen",
+            "channel_id": "UCJ-9bH9B1KZuXO988Vd56AA",
+            "published": "2025-12-01",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "leisure": [
+          {
+            "id": "09U_3m17_Qg",
+            "title": "Episode 17 – Feste und Traditionen | Deutsch lernen mit Hör Deutsch! | A1–B1",
+            "channel": "Hör Deutsch!",
+            "channel_id": "UC3UoS_JgYFmIdxVSTMJYehQ",
+            "published": "2025-07-21",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "69bDDTwsk0M",
+            "title": "Episode 5 – Freizeit und Hobbys | Deutsch lernen mit Hör Deutsch! |  Podcast für Anfänger | A1–B1",
+            "channel": "Hör Deutsch!",
+            "channel_id": "UC3UoS_JgYFmIdxVSTMJYehQ",
+            "published": "2025-05-01",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "RDDn1eD-JlM",
+            "title": "How to Talk About Your Free Time in German | Episode 71 | Easy German",
+            "channel": "Learn German Podcast ",
+            "channel_id": "UCbo4aOrpIPNZiqOUNs0OLrg",
+            "published": "2026-08-23",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ]
+      }
+    },
+    "es": {
+      "themes": {
+        "food": [
+          {
+            "id": "3G_myoyDA5s",
+            "title": "Comida típica de España",
+            "channel": "Talkyspanish",
+            "channel_id": "UCs_qZ3sThXw540D-4-IM3ug",
+            "published": "2025-09-03",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "kADxJGNJ1SQ",
+            "title": "Comidas típicas de España. Aprende español para Viajar",
+            "channel": "Expreso Español",
+            "channel_id": "UC048P8miEN1WT2joVi-y5tg",
+            "published": "2025-10-20",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "W_HP8_QkZ9Y",
+            "title": "Comidas de España - Principiante absoluto A0 | Spanish comprehensible input",
+            "channel": "Comprende Fácil",
+            "channel_id": "UCbqf3xsG03B0_wscquc828A",
+            "published": "2026-06-14",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "clothing": [
+          {
+            "id": "5uPKmYlqouk",
+            "title": "Aprende Español con Podcast: Cómo hablar español en una tienda de ropa? 🧥 Español práctico",
+            "channel": "WowSpoken Spanish",
+            "channel_id": "UCG6nlrrWxuSd07gFaDxetSA",
+            "published": "2026-04-12",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "2JmKJr-9nvE",
+            "title": "Domina el vocabulario de la ropa en español para la vida cotidiana | A1–A2",
+            "channel": "Learn And Speak Spanish (Spanish Lessons)",
+            "channel_id": "UCW7HcmDO84P6v2PYNPUVeWA",
+            "published": "2026-09-10",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "OujXbWistHc",
+            "title": "Spanisch lernen: Kleidung leicht gemacht! (Ropa en Español) 👕👗👟",
+            "channel": "Spanisch mit Tomás",
+            "channel_id": "UC0zjyOB2R-7EjbWa3EpgkUw",
+            "published": "2025-01-05",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "housing": [
+          {
+            "id": "1m7fTsJzoao",
+            "title": "vlog para aprender español: un día en mi vida en Cádiz 🇪🇸",
+            "channel": "Español con Guada",
+            "channel_id": "UChJK1ZoZvopQBz2xoCOawtQ",
+            "published": "2025-09-14",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "sHSittUV7Nc",
+            "title": "El mejor lugar para practicar español",
+            "channel": "Español con Juan",
+            "channel_id": "UCoHJ7PkM6T92LwgJgrnDhWA",
+            "published": "2026-03-22",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "wUjsN9aD8c0",
+            "title": "8 La vida diaria en invierno en España Español fácil A2 B1",
+            "channel": "Learn Spanish with Hola",
+            "channel_id": "UC-Ho6OYgorb13J4grBZQmCA",
+            "published": "2026-07-20",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "transport": [
+          {
+            "id": "oxv9m4W8eVA",
+            "title": "Frases para VIAJAR en Español, Transporte, Restaurante, Compras y Emergencias",
+            "channel": "Burbuja del Español",
+            "channel_id": "UCArQLk5v9FyROy5aD8915OA",
+            "published": "2026-10-16",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "Vbv1CnkUttU",
+            "title": "Aprender español: Viajar en tren 🚝",
+            "channel": "Tu escuela de español",
+            "channel_id": "UCTyCyyV0eKfEoMWI_V11z6A",
+            "published": "2025-12-02",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "ZrR2KxE9U9w",
+            "title": "¿TITULO de TRANSPORTISTA sin BACHILLERATO? 🚚🚛",
+            "channel": "Transporte y Movilidad",
+            "channel_id": "UCVEi5I60j1_wyhoTRTCUiRA",
+            "published": "2025-08-18",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "education": [
+          {
+            "id": "cKPluaO0lHI",
+            "title": "¿En qué se diferencian los colegios en España? Aprende español (B1-B2)",
+            "channel": "Learn Spanish with Hola",
+            "channel_id": "UC-Ho6OYgorb13J4grBZQmCA",
+            "published": "2026-07-24",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "MgGxDi-LJ-Y",
+            "title": "¿Por Qué Hay Tanto Fracaso Escolar? - el Mejor Profesor de España Habla del Problema Educativo",
+            "channel": "El Director - David Jiménez ",
+            "channel_id": "UCrR2eC_v_tH10E3loT772bw",
+            "published": "2025-09-17",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "wP0jJLG4m8w",
+            "title": "Spanish Listening Practice (A2) | Should Spain Ban Mobile Phones in Schools?",
+            "channel": "RoundTalk",
+            "channel_id": "UCy9w2-TiD0zZU3b1qOh0mDg",
+            "published": "2026-09-28",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ],
+        "leisure": [
+          {
+            "id": "5IX1SAiK-F8",
+            "title": "Aprende ESPAÑOL descubriendo una fiesta única en ESPAÑA",
+            "channel": "David auf Spanisch",
+            "channel_id": "UCSjanHSjEqJ88oMkHEhFSjA",
+            "published": "2026-07-01",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "1VjAhGbo4lU",
+            "title": "🎉 Las CELEBRACIONES más INCREÍBLES del mundo HISPANO que DEBES conocer 🌎 | Aprender Español 🇪🇸🇵🇪🇦🇷",
+            "channel": "Burbuja del Español",
+            "channel_id": "UCArQLk5v9FyROy5aD8915OA",
+            "published": "2025-11-09",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          },
+          {
+            "id": "DA_Hf8pyYBA",
+            "title": "Fiestas y tradiciones de España en español (A1-A2) | 8 diálogos para vivir las fiestas",
+            "channel": "HolaBasics ",
+            "channel_id": "UCNz1NjjU5FcJECUAJtCjXZw",
+            "published": "2026-10-12",
+            "added": "2026-10-27",
+            "transcript": null,
+            "transcript_pending": true
+          }
+        ]
+      }
+    }
+  }
 }
