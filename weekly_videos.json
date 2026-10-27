@@ -1,0 +1,36 @@
+{
+  "updated": null,
+  "themes": [
+    {
+      "key": "food",
+      "label": "食",
+      "icon": "🍽️"
+    },
+    {
+      "key": "clothing",
+      "label": "衣",
+      "icon": "👕"
+    },
+    {
+      "key": "housing",
+      "label": "住",
+      "icon": "🏠"
+    },
+    {
+      "key": "transport",
+      "label": "行",
+      "icon": "🚲"
+    },
+    {
+      "key": "education",
+      "label": "育",
+      "icon": "🎓"
+    },
+    {
+      "key": "leisure",
+      "label": "樂",
+      "icon": "🎭"
+    }
+  ],
+  "languages": {}
+}
